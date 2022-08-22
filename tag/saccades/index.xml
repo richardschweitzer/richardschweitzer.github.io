@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>saccades | Richard Schweitzer</title>
+    <link>https://richardschweitzer.github.io/tag/saccades/</link>
+      <atom:link href="https://richardschweitzer.github.io/tag/saccades/index.xml" rel="self" type="application/rss+xml" />
+    <description>saccades</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://richardschweitzer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>saccades</title>
+      <link>https://richardschweitzer.github.io/tag/saccades/</link>
+    </image>
+    
+    <item>
+      <title>Definition, Modeling, and Detection of Saccades in the Face of Post-saccadic Oscillations</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerrolfs2022_eyetracking/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerrolfs2022_eyetracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

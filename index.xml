@@ -33,6 +33,30 @@
     </item>
     
     <item>
+      <title>Definition, Modeling, and Detection of Saccades in the Face of Post-saccadic Oscillations</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerrolfs2022_eyetracking/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerrolfs2022_eyetracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling perception to action through incidental sensory consequences of motor behaviour</title>
+      <link>https://richardschweitzer.github.io/publication/rolfsschweitzer2022/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/rolfsschweitzer2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrasaccadic motion streaks jump-start gaze correction</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerrolfs2021_sciadv/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerrolfs2021_sciadv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://richardschweitzer.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -108,6 +132,22 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>An adaptive algorithm for fast and reliable online saccade detection</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_brm/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_brm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-saccadic motion streaks as cues to linking object locations across saccades</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_jov/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_jov/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -249,7 +289,7 @@ $$&lt;/p&gt;
       <link>https://richardschweitzer.github.io/publication/balsdonschweitzerwatsonrolfs2018/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
       <guid>https://richardschweitzer.github.io/publication/balsdonschweitzerwatsonrolfs2018/</guid>
-      <description>&lt;p&gt;When objects rapidly shift across the retina during saccades, they produce so-called motion streaks &amp;ndash; elongated traces of the stimulus trajectory. During natural vision, however, we rarely notice this type of smearing. Previous studies have shown that the mere presence of stimulus after the saccade can achieve this &amp;lsquo;saccadic omission&amp;rsquo;. Tarryn&amp;rsquo;s study investigates not only the time course of this process but also the unexpected role of distractor stimuli. She has written a nice piece on her work for &lt;a href=&#34;https://sciencetrends.com/gaps-in-perception-how-we-see-a-stable-world-through-moving-eyes/&#34; target=&#34;_blank&#34;&gt;&#39;Science Trends&#39;&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;When objects rapidly shift across the retina during saccades, they produce so-called motion streaks &amp;ndash; elongated traces of the stimulus trajectory. During natural vision, however, we rarely notice this type of smearing. Previous studies have shown that the mere presence of stimulus after the saccade can achieve this &amp;lsquo;saccadic omission&amp;rsquo;. Tarryn&amp;rsquo;s study investigates not only the time course of this process but also the unexpected role of distractor stimuli. She has written a nice piece on her work for &lt;a href=&#34;https://sciencetrends.com/gaps-in-perception-how-we-see-a-stable-world-through-moving-eyes/&#34; target=&#34;_blank&#34;&gt;Science Trends&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
