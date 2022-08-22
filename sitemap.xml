@@ -4,11 +4,11 @@
   
   
   <url>
-    <loc>https://richardschweitzer.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://richardschweitzer.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://richardschweitzer.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://richardschweitzer.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://richardschweitzer.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -30,16 +30,26 @@
   <url>
     <loc>https://richardschweitzer.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://richardschweitzer.github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://richardschweitzer.github.io/publication-type/2/</loc><lastmod>2017-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://richardschweitzer.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://richardschweitzer.github.io/publication/bartrappschweitzer2017/</loc><lastmod>2017-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://richardschweitzer.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://richardschweitzer.github.io/tag/association/</loc><lastmod>2017-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://richardschweitzer.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://richardschweitzer.github.io/tag/attention/</loc><lastmod>2017-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://richardschweitzer.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://richardschweitzer.github.io/tag/context/</loc><lastmod>2017-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://richardschweitzer.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://richardschweitzer.github.io/tag/prediction/</loc><lastmod>2017-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://richardschweitzer.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://richardschweitzer.github.io/publication_types/</loc><lastmod>2017-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://richardschweitzer.github.io/publication/</loc><lastmod>2017-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://richardschweitzer.github.io/tag/time-perception/</loc><lastmod>2017-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://richardschweitzer.github.io/project/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://richardschweitzer.github.io/tag/psychophysics/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://richardschweitzer.github.io/project/example/</loc><changefreq>weekly</changefreq></url></urlset>
