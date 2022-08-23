@@ -772,7 +772,7 @@
       
       <img class="avatar avatar-circle"
            width="270" height="270"
-           src="/authors/admin/avatar_huf71a5df5c46254885b5e94a2318dabf4_109513_270x270_fill_q75_lanczos_center.jpeg" alt="Richard Schweitzer">
+           src="/authors/admin/avatar_hu84f86c9460cadca0df097c8d0cdf1298_64891_270x270_fill_q75_lanczos_center.jpeg" alt="Richard Schweitzer">
       
 
       <div class="portrait-title">
@@ -899,6 +899,9 @@
 
     <div class="article-style">
       <p>Richard Schweitzer is a vision scientist currently working at the Berlin-based cluster of excellence <a href="https://www.scienceofintelligence.de/people/richard-schweitzer/" target="_blank">'Science of intelligence'</a>.</p>
+<p>During his PhD in <a href="https://rolfslab.org/" target="_blank">Martin Rolfs' lab</a>, he investigated the extent and the potential function of intra-saccadic vision using human psychophysics, eye and motion tracking, as well as EEG.
+As a postdoc he now looks into <a href="https://www.scienceofintelligence.de/research/researchprojects/project_23/" target="_blank">the mechanisms underlying visual stability</a>, not only in humans, but also in (custom-built) robots.
+In his work he is passionate about applying and evaluating novel technologies, building his own research equipment, and developing useful methods and algorithms, especially for eye tracking experiments and data analysis.</p>
 
     </div>
 
@@ -911,9 +914,11 @@
           
           <li>Vision around and during eye movements</li>
           
-          <li>Sensorimotor control</li>
+          <li>Sensorimotor control and learning</li>
           
           <li>Visual stability</li>
+          
+          <li>Eye tracking methods</li>
           
           <li>Time perception</li>
           
@@ -1151,7 +1156,7 @@
   
   <a href="/publication/schweitzerrolfs2022_eyetracking/" >
     <div class="img-hover-zoom">
-      <img src="/publication/schweitzerrolfs2022_eyetracking/featured_hue3662cc29e349849753278e24055ade7_477816_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
+      <img src="/publication/schweitzerrolfs2022_eyetracking/featured_hueaa55488210f328083fe69d57d6a6d40_485501_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
            class="article-banner" alt="Definition, Modeling, and Detection of Saccades in the Face of Post-saccadic Oscillations" loading="lazy">
     </div>
   </a>
@@ -1164,7 +1169,7 @@
   
   <a href="/publication/schweitzerrolfs2022_eyetracking/"  class="summary-link">
     <div class="article-style">
-      <p>When analyzing eye tracking data, one of the central tasks is the detection of saccades. Although many automatic saccade detection algorithms exist, the field still debates how to deal with brief periods of instability around saccade offset, so-called post-saccadic oscillations (PSOs), which are especially prominent in today’s widely used video-based eye tracking techniques. There is good evidence that PSOs are caused by inertial forces that act on the elastic components of the eye, such as the iris or the lens. As this relative movement can greatly distort estimates of saccade metrics, especially saccade duration and peak velocity, video-based eye tracking has recurrently been considered unsuitable for measuring saccade kinematics. In this chapter, we review recent biophysical models that describe the relationship between pupil motion and eyeball motion. We found that these models were well capable of accurately reproducing saccade trajectories and we implemented a we framework for the simulation of saccades, PSOs, and fixations, which can be used &ndash; just like datasets hand-labeled by human experts &ndash; to evaluate detection algorithms and train statistical models. Moreover, as only pupil and corneal-reflection signals are observable in video-based eye tracking, one may also be able to use these models to predict the unobservable motion of the eyeball. Testing these predictions by analyzing saccade data that was registered with video-based and search-coil eye tracking techniques revealed strong relationships between the two types of measurements, especially when saccade offset is defined as the onset of the PSO. To enable eye tracking researchers to make use of this definition, we present and evaluate two novel algorithms &ndash; one based on eye movement direction inversion and one based on linear classifiers previously trained on simulation data. These algorithms allow for the detection of PSO onset with high fidelity. Even though PSOs may still pose problems for a range of eye tracking applications, the techniques described here may help to alleviate these.</p>
+      <p>When looking at data recorded by video-based eye tracking systems, one might have noticed brief periods of instability around saccade offset. These so-called post-saccadic oscillations are caused by inertial forces that act on the elastic components of the eye, such as the iris or the lens, and can greatly distort estimates of saccade duration and peak velocity. In this paper, we describe and evaluate biophysically plausible models (for a demonstration, see the <a href="https://richardschweitzer.shinyapps.io/pso_fitting_example/" target="_blank">shiny app</a>) that can not only approximate saccade trajectories observed in video-based eye tracking, but also extract the underlying &ndash; and otherwise unobservable &ndash; rotation of the eyeball. We further present detection algorithms for post-saccadic oscillations, which are made <a href="https://github.com/richardschweitzer/PostsaccadicOscillations" target="_blank">publicly available</a>, and finally demonstrate how accurate models of saccade trajectory can be used to generate data and mathematically tractable ground-truth labels for training ML-based algorithms that are capable of accurately detecting post-saccadic oscillations.</p>
     </div>
   </a>
   
@@ -1326,7 +1331,7 @@
   
   <a href="/publication/rolfsschweitzer2022/"  class="summary-link">
     <div class="article-style">
-      <p>Researchers in the field of active perception study how sensory processes coalesce with motor actions to extract information from the world. Such actions intrinsically alter perceptual processing and have intended sensory outcomes, but also lead to incidental sensory consequences, which are side effects of moving the sensory surface to its intended goal. These incidental consequences of actions are generally considered a nuisance to perception that needs to be attenuated or suppressed during movement execution. In this Perspective, we propose instead that incidental sensory consequences of actions shape perceptual processes through action–perception couplings and we review evidence from the domain of active vision. We propose four hallmarks representing the degrees to which actions are an integral part of a perceptual processing architecture. Finally, we outline a research strategy for probing these hallmarks in active perceptual systems and conclude that researchers of perception should embrace the study of action kinematics in pursuit of their questions.</p>
+      <p>This perspective paper is dedicated to the question how an active perceptual system deals with the sensory consequences of its own actions. For instance, in the field of active vision little is known about the consequences of large-field smear induced by the rapid image shift caused by saccades. Whereas such information is thought to hinder visual processing, new evidence is discussed that sheds light on the intriguing possibility of action-perception couplings, that is, the idea that perception is shaped by sensory consequences of actions.</p>
     </div>
   </a>
   
@@ -1472,7 +1477,7 @@
   
   <a href="/publication/schweitzerrolfs2021_sciadv/"  class="summary-link">
     <div class="article-style">
-      <p>Rapid eye movements (saccades) incessantly shift objects across the retina. To establish object correspondence, the visual system is thought to match surface features of objects across saccades. Here, we show that an object’s intrasaccadic retinal trace—a signal previously considered unavailable to visual processing—facilitates this match making. Human observers made saccades to a cued target in a circular stimulus array. Using high-speed visual projection, we swiftly rotated this array during the eyes’ flight, displaying continuous intrasaccadic target motion. Observers’ saccades landed between the target and a distractor, prompting secondary saccades. Independently of the availability of object features, which we controlled tightly, target motion increased the rate and reduced the latency of gaze-correcting saccades to the initial presaccadic target, in particular when the target’s stimulus features incidentally gave rise to efficient motion streaks. These results suggest that intrasaccadic visual information informs the establishment of object correspondence and jump-starts gaze correction.</p>
+      <p>In this piece we showed that the visual traces that moving objects induce during saccades can facilitate secondary saccades in both accuracy and saccade initiation latency. Secondary saccades are typically prompted when one saccade does not entirely reach a target or when the saccade target is displaced in mid-flight. Our results provide evidence against the widely acknowledged notion that our brains preemptively discard visual information which reaches the eye during saccades. The paper has received some peer and media attention, such as a well-written <a href="https://www.science.org/doi/10.1126/sciadv.abk0043" target="_blank">commentary by Jasper Fabius and Stefan van der Stigchel</a>, as well as articles in <a href="https://www.nature.com/articles/d41586-021-02058-9" target="_blank">Nature Research Highlights</a>, <a href="https://www.aaas.org/news/human-eyes-absorb-visual-information-even-during-rapid-eye-movements" target="_blank">AAAS</a>, <a href="https://www.newscientist.com/article/2285131-we-thought-our-eyes-turned-off-when-moving-quickly-but-thats-wrong/" target="_blank">New Scientist</a>, or <a href="https://www.vozpopuli.com/next/ojos-movimientos-sacadicos.html" target="_blank">Vozpópuli</a> (see <a href="https://rolfslab.org/2021/08/09/press-coverage-on-science-advances-paper/" target="_blank">the Rolfslab's blog post</a> for the full list). Notably, this study is the first one to apply the new TrackPixx eye tracking system, for which I have written a <a href="https://github.com/richardschweitzer/TrackPixxToolbox" target="_blank">Matlab toolbox</a>.</p>
     </div>
   </a>
   
@@ -1576,8 +1581,7 @@
     
 
   <span class="author-highlighted">
-      Richard Schweitzer</span>, <span >
-      Martin Rolfs</span>
+      Richard Schweitzer</span>
   </div>
   
   
@@ -1588,7 +1592,7 @@
     
       
     
-    June, 2020
+    December, 2020
   </span>
   
 
@@ -1596,7 +1600,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      In <em>Behavior Research Methods</em>
+      Dissertation
     
   </span>
   
@@ -1619,22 +1623,22 @@
   
   
   
-  <a href="/publication/schweitzerrolfs2020_brm/" >
+  <a href="/publication/schweitzer2020_dissertation/" >
     <div class="img-hover-zoom">
-      <img src="/publication/schweitzerrolfs2020_brm/featured_huc1e4b6272403d10c9a80c65d8fc2f21c_269863_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
-           class="article-banner" alt="An adaptive algorithm for fast and reliable online saccade detection" loading="lazy">
+      <img src="/publication/schweitzer2020_dissertation/featured_hua2cd32aaa8676f6b0a15737d73c50f4b_2472954_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
+           class="article-banner" alt="Perceptual and Motor Consequences of Intra-saccadic Perception" loading="lazy">
     </div>
   </a>
   
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="/publication/schweitzerrolfs2020_brm/" >An adaptive algorithm for fast and reliable online saccade detection</a>
+    <a href="/publication/schweitzer2020_dissertation/" >Perceptual and Motor Consequences of Intra-saccadic Perception</a>
   </div>
 
   
-  <a href="/publication/schweitzerrolfs2020_brm/"  class="summary-link">
+  <a href="/publication/schweitzer2020_dissertation/"  class="summary-link">
     <div class="article-style">
-      <p>To investigate visual perception around the time of eye movements, vision scientists manipulate stimuli contingent upon the onset of a saccade. For these experimental paradigms, timing is especially crucial, because saccade offset imposes a deadline on the display change. Although efficient online saccade detection can greatly improve timing, most algorithms rely on spatial-boundary techniques or absolute-velocity thresholds, which both suffer from weaknesses &ndash; late detections and false alarms, respectively. We propose an adaptive, velocity-based algorithm for online saccade detection that surpasses both standard techniques in speed and accuracy and allows the user to freely define the detection criteria. Inspired by the Engbert–Kliegl algorithm for microsaccade detection, our algorithm computes two-dimensional velocity thresholds from variance in the preceding fixation samples, while compensating for noisy or missing data samples. An optional direction criterion limits detection to the instructed saccade direction, further increasing robustness. We validated the algorithm by simulating its performance on a large saccade dataset and found that high detection accuracy (false-alarm rates below 1%) could be achieved with detection latencies of only 3 ms. High accuracy was maintained even under simulated high-noise conditions. To demonstrate that purely intrasaccadic presentations are technically feasible, we devised an experimental test in which a Gabor patch drifted at saccadic peak velocities. Whereas this stimulus was invisible when presented during fixation, observers reliably detected it during saccades. Photodiode measurements verified that—including all system delays—the stimuli were physically displayed on average 20 ms after saccade onset. Thus, the proposed algorithm provides a valuable tool for gaze-contingent paradigms.</p>
+      <p>Is intra-saccadic vision merely an epiphenomenon or could visual information that reaches the eye during saccades be used by the visual system? That was the question of my cumulative doctoral dissertation, which features not only a synopsis of all studies conducted up to this point, but also a review of the saccadic-suppression and motion-streak literature to put these findings into context. The dissertation has been awarded two prizes &ndash; the <a href="https://www.hu-berlin.de/de/ueberblick/menschen/ehrungen/humboldtpreis/archiv/humboldt-preis-2021/perceptual-and-motor-consequences-of-intra-saccadic-perception" target="_blank">Humboldt Prize</a> and the <a href="https://www.studienstiftung.de/pressemitteilungen/artikel/studienstiftung-vergibt-promotionspreise-2022-1/" target="_blank">Lieselotte Pongratz-Promotionspreis</a> by Studienstiftung des Deutschen Volkes (see also the <a href="https://youtu.be/Q6lAIwXfRVQ" target="_blank">short movie</a>).</p>
     </div>
   </a>
   
@@ -1656,46 +1660,38 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3758/s13428-019-01304-3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.18452/22148" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/schweitzerrolfs2020_brm/cite.bib">
+        data-filename="/publication/schweitzer2020_dissertation/cite.bib">
   Cite
 </a>
 
 
+
+
+
+
+
+
+
+
+
   
   
     
   
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/richardschweitzer/OnlineSaccadeDetection" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://osf.io/3pck5/" target="_blank" rel="noopener">
-  Dataset
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/Q6lAIwXfRVQ" target="_blank" rel="noopener">
+  Video
 </a>
 
 
 
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3758/s13428-019-01304-3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.18452/22148" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1750,7 +1746,7 @@
     
       
     
-    April, 2020
+    July, 2020
   </span>
   
 
@@ -1783,7 +1779,7 @@
   
   <a href="/publication/schweitzerrolfs2020_jov/" >
     <div class="img-hover-zoom">
-      <img src="/publication/schweitzerrolfs2020_jov/featured_hu39a70ee400ca4e12661c56bbed5fe120_510633_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
+      <img src="/publication/schweitzerrolfs2020_jov/featured_hub3c7129715a31fcd0dc5019af409fff7_514539_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
            class="article-banner" alt="Intra-saccadic motion streaks as cues to linking object locations across saccades" loading="lazy">
     </div>
   </a>
@@ -1796,7 +1792,7 @@
   
   <a href="/publication/schweitzerrolfs2020_jov/"  class="summary-link">
     <div class="article-style">
-      <p>When visual objects shift rapidly across the retina, they produce motion blur. Intra-saccadic visual signals, caused incessantly by our own saccades, are thought to be eliminated at early stages of visual processing. Here we investigate whether they are still available to the visual system and could in principle be used as cues for localizing objects as they change locations on the retina. Using a high-speed projection system, we developed a trans-saccadic identification task in which brief but continuous intra-saccadic object motion was key to successful performance. Observers made a saccade to a target stimulus that moved rapidly either up or down, strictly during the eye movement. Just as the target reached its final position, an identical distractor stimulus appeared on the opposite side, resulting in a display of two identical stimuli upon saccade landing. Observers had to identify the original target using the only available clue &ndash; the target&rsquo;s intra-saccadic movement. In an additional replay condition, we presented the observers’ own intra-saccadic retinal stimulus trajectories during fixation. Compared to the replay condition, task performance was impaired during saccades but recovered fully when a post-saccadic blank was introduced. Reverse regression analyses and confirmatory experiments showed that performance increased markedly when targets had long movement durations, low spatial frequencies, and orientations parallel to their retinal trajectory &ndash; features that promote intra-saccadic motion streaks. Although the potential functional role of intra-saccadic visual signals is still unclear, our results suggest that they could provide cues to tracking objects that rapidly change locations across saccades.</p>
+      <p>Whenever we make a saccade to an object, that object will travel from the periphery to the fovea at extremely high velocities. Depending on the visual features of the object, such motion can induce streaks, that may serve as visual clues to solve the problem of trans-saccadic object correspondence. Using a high-speed projection system operating at 1440 fps, we investigated to what extent human observers are capable of matching pre- and post-saccadic object locations when their only cue was an intra-saccadic motion streak, and compared their performance during saccades to a replay of the retinal stimulus trajectory presented during fixation.</p>
     </div>
   </a>
   
@@ -1901,6 +1897,168 @@
 
   <span class="author-highlighted">
       Richard Schweitzer</span>, <span >
+      Martin Rolfs</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    June, 2020
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      In <em>Behavior Research Methods</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/schweitzerrolfs2020_brm/" >
+    <div class="img-hover-zoom">
+      <img src="/publication/schweitzerrolfs2020_brm/featured_hu22922d09accef26203b9afb7931beee7_282563_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
+           class="article-banner" alt="An adaptive algorithm for fast and reliable online saccade detection" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/schweitzerrolfs2020_brm/" >An adaptive algorithm for fast and reliable online saccade detection</a>
+  </div>
+
+  
+  <a href="/publication/schweitzerrolfs2020_brm/"  class="summary-link">
+    <div class="article-style">
+      <p>To study intrasaccadic vision, we need stimulus manipulations that occur strictly during saccades. Due to the brief durations of saccades, this can prove a difficult task, as various system latencies (eye tracker, refresh cycle, video delay, and some more) have to be considered. While most of these delays are hardware-dependent, one opportunity to alleviate timing issues in gaze-contingent eye-tracking paradigms is applying an efficient online saccade detection! In this paper we described such an algorithm, validated it in simulations and experiments, and made it <a href="https://github.com/richardschweitzer/OnlineSaccadeDetection" target="_blank">publicly available</a>) so that it can be used with a range of different programming languages.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3758/s13428-019-01304-3" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/schweitzerrolfs2020_brm/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/richardschweitzer/OnlineSaccadeDetection" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://osf.io/3pck5/" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3758/s13428-019-01304-3" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Richard Schweitzer</span>, <span >
       Tamara Watson</span>, <span >
       John Watson</span>, <span >
       Martin Rolfs</span>
@@ -1947,7 +2105,7 @@
   
   <a href="/publication/schweitzerwatsonwatsonrolfs2019/" >
     <div class="img-hover-zoom">
-      <img src="/publication/schweitzerwatsonwatsonrolfs2019/featured_hubd3998b615e64a521357b51bed18d8fc_512153_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
+      <img src="/publication/schweitzerwatsonwatsonrolfs2019/featured_hu1616a52465e0f9676e698026c0ea4f53_509589_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
            class="article-banner" alt="The Joy of Retinal Painting: A Build-It-Yourself Device for Intrasaccadic Presentations" loading="lazy">
     </div>
   </a>
@@ -2730,12 +2888,11 @@
     
 
   <span class="author-highlighted">
-      Richard Schweitzer</span>, <span >
-      Martin Rolfs</span>
+      Richard Schweitzer</span>
   </span>
   (2020).
-  <a href="/publication/schweitzerrolfs2020_brm/">An adaptive algorithm for fast and reliable online saccade detection</a>.
-  In <em>Behavior Research Methods</em>.
+  <a href="/publication/schweitzer2020_dissertation/">Perceptual and Motor Consequences of Intra-saccadic Perception</a>.
+  Dissertation.
   
   <p>
 
@@ -2752,46 +2909,38 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3758/s13428-019-01304-3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.18452/22148" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/schweitzerrolfs2020_brm/cite.bib">
+        data-filename="/publication/schweitzer2020_dissertation/cite.bib">
   Cite
 </a>
 
 
+
+
+
+
+
+
+
+
+
   
   
     
   
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/richardschweitzer/OnlineSaccadeDetection" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://osf.io/3pck5/" target="_blank" rel="noopener">
-  Dataset
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/Q6lAIwXfRVQ" target="_blank" rel="noopener">
+  Video
 </a>
 
 
 
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3758/s13428-019-01304-3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.18452/22148" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2878,6 +3027,92 @@
 
 
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1167/jov.20.4.17" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span class="author-highlighted">
+      Richard Schweitzer</span>, <span >
+      Martin Rolfs</span>
+  </span>
+  (2020).
+  <a href="/publication/schweitzerrolfs2020_brm/">An adaptive algorithm for fast and reliable online saccade detection</a>.
+  In <em>Behavior Research Methods</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3758/s13428-019-01304-3" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/schweitzerrolfs2020_brm/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/richardschweitzer/OnlineSaccadeDetection" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://osf.io/3pck5/" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3758/s13428-019-01304-3" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3249,6 +3484,12 @@
     
 
     
+    
+      
+      <li>
+        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address">Marchstr. 23, Berlin, 10587</span>
+      </li>
     
 
     

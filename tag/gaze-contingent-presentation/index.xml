@@ -17,7 +17,8 @@
       <link>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_brm/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_brm/</guid>
-      <description></description>
+      <description>&lt;p&gt;To study intrasaccadic vision, we need stimulus manipulations that occur strictly during saccades. Due to the brief durations of saccades, this can prove a difficult task, as various system latencies (eye tracker, refresh cycle, video delay, and some more) have to be considered. While most of these delays are hardware-dependent, one opportunity to alleviate timing issues in gaze-contingent eye-tracking paradigms is applying an efficient online saccade detection! In this paper we described such an algorithm, validated it in simulations and experiments, and made it &lt;a href=&#34;https://github.com/richardschweitzer/OnlineSaccadeDetection&#34; target=&#34;_blank&#34;&gt;publicly available&lt;/a&gt;) so that it can be used with a range of different programming languages.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
