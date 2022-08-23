@@ -45,6 +45,7 @@
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_jov/</guid>
       <description>&lt;p&gt;Whenever we make a saccade to an object, that object will travel from the periphery to the fovea at extremely high velocities. Depending on the visual features of the object, such motion can induce streaks, that may serve as visual clues to solve the problem of trans-saccadic object correspondence. Using a high-speed projection system operating at 1440 fps, we investigated to what extent human observers are capable of matching pre- and post-saccadic object locations when their only cue was an intra-saccadic motion streak, and compared their performance during saccades to a replay of the retinal stimulus trajectory presented during fixation.&lt;/p&gt;
+&lt;p&gt;A toolbox for parsing Eyelink EDF files was implemented in R to analyze this series of experiments, which can be found &lt;a href=&#34;https://github.com/richardschweitzer/EyelinkEDFTools_R&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
