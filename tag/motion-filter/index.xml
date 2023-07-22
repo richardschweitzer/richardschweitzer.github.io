@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>motion filter | Richard Schweitzer</title>
+    <link>https://richardschweitzer.github.io/tag/motion-filter/</link>
+      <atom:link href="https://richardschweitzer.github.io/tag/motion-filter/index.xml" rel="self" type="application/rss+xml" />
+    <description>motion filter</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://richardschweitzer.github.io/media/icon_hubfee2d95eacbb9353231e71bd25fb589_9055_512x512_fill_lanczos_center_3.png</url>
+      <title>motion filter</title>
+      <link>https://richardschweitzer.github.io/tag/motion-filter/</link>
+    </image>
+    
+    <item>
+      <title>Saccadic omission revisited: What saccade-induced smear looks like</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</guid>
+      <description>&lt;p&gt;We rarely become aware of the immediate sensory consequences of our own saccades, that is, a massive amount of motion blur as the entire visual scene shifts across the retina. In this paper, we applied a novel tachistoscopic presentation technique to flash natural scenes in total darkness while observers made saccades! That way, motion smear induced by rapid image motion &amp;ndash; otherwise omitted from perception &amp;ndash; became readily observable. With this setup we could not only study the time course of motion smear generation and reduction, but also determine what visual features are encoded in smeared images: Low spatial frequencies and, most prominently, orientations parallel to the direction of the ongoing saccade. Using some cool computational modeling, we show that these results can be explained assuming no more than saccadic velocity and human contrast sensitivity profiles. To demonstrate that motion smear is directly linked to saccade dynamics, we show that the time course of perceived smear across observers can be predicted by a parsimonious motion-filter model that only takes the eyes&amp;rsquo; trajectories as an input. In the name of open science, all &lt;a href=&#34;https://github.com/richardschweitzer/MotionSmearModelingPlayground&#34; target=&#34;_blank&#34;&gt;modeling code&lt;/a&gt;, as well as data and &lt;a href=&#34;https://osf.io/bjgqk&#34; target=&#34;_blank&#34;&gt;data analysis code&lt;/a&gt;, is again publicly available. The manuscript currently under review.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

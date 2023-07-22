@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>motion | Richard Schweitzer</title>
+    <link>https://richardschweitzer.github.io/tag/motion/</link>
+      <atom:link href="https://richardschweitzer.github.io/tag/motion/index.xml" rel="self" type="application/rss+xml" />
+    <description>motion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://richardschweitzer.github.io/media/icon_hubfee2d95eacbb9353231e71bd25fb589_9055_512x512_fill_lanczos_center_3.png</url>
+      <title>motion</title>
+      <link>https://richardschweitzer.github.io/tag/motion/</link>
+    </image>
+    
+    <item>
+      <title>Lawful kinematics link eye movements to the limits of high-speed perception</title>
+      <link>https://richardschweitzer.github.io/publication/rolfsschweitzercastetwatsonohl2023/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/rolfsschweitzercastetwatsonohl2023/</guid>
+      <description>&lt;p&gt;In this paper, we report a mysterious finding. When detecting rapid stimulus motion of a Gabor stimulus oriented orthogonal to its motion direction, it is not simply its absolute velocity that determines its visibility, but a combination of velocity and movement distance. Curiously, the specific combination that predicts velocity thresholds follows an oculomotor law - the main sequence, an exponential function describing the increase of saccadic velocity with growing amplitude. My proud contributions to this paper feature the &lt;a href=&#34;https://osf.io/kvtsu/&#34; target=&#34;_blank&#34;&gt;masking experiment&lt;/a&gt;, the &lt;a href=&#34;https://github.com/richardschweitzer/PostsaccadicOscillations&#34; target=&#34;_blank&#34;&gt;modeling of saccade trajectories&lt;/a&gt; which ultimately revealed significant correlations between saccade metrics and velocity thresholds, and most importantly, the &lt;a href=&#34;https://github.com/richardschweitzer/ModelingVisibilityOfSaccadelikeMotion&#34; target=&#34;_blank&#34;&gt;early vision model&lt;/a&gt; to predict the measured psychophysical data - without fitting and based only on the trajectory of the stimulus. Finally, I evaluated the timing of the motion stimulus using photometric measurements using the &lt;a href=&#34;https://github.com/richardschweitzer/LM03_lightmeter&#34; target=&#34;_blank&#34;&gt;LM03 lightmeter&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
