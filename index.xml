@@ -33,20 +33,20 @@
     </item>
     
     <item>
+      <title>Saccadic omission revisited: What saccade-induced smear looks like</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</guid>
+      <description>&lt;p&gt;We rarely become aware of the immediate sensory consequences of our own saccades, that is, a massive amount of motion blur as the entire visual scene shifts across the retina. In this paper, we applied a novel tachistoscopic presentation technique to flash natural scenes in total darkness while observers made saccades. That way, motion smear induced by rapid image motion (otherwise omitted from perception) became readily observable. With this setup we could not only study the time course of motion smear generation and reduction, but also determine what visual features are encoded in smeared images. Low spatial frequencies and, most prominently, orientations parallel to the direction of the ongoing saccade. Using some cool computational modeling, we show that these results can be explained assuming no more than saccadic velocity and human contrast sensitivity profiles. To demonstrate that motion smear is directly linked to saccade dynamics, we show that the time course of perceived smear across observers can be predicted by a parsimonious motion-filter model that only takes the eyes&amp;rsquo; trajectories as an input. And the best thing about it: This works even if no saccades are made and the visual consequences of saccades are merely replayed to the fixating eye! In the name of open science, all &lt;a href=&#34;https://github.com/richardschweitzer/MotionSmearModelingPlayground&#34; target=&#34;_blank&#34;&gt;modeling code&lt;/a&gt;, as well as data and &lt;a href=&#34;https://osf.io/bjgqk&#34; target=&#34;_blank&#34;&gt;data analysis code&lt;/a&gt;, is again publicly available.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lawful kinematics link eye movements to the limits of high-speed perception</title>
       <link>https://richardschweitzer.github.io/publication/rolfsschweitzercastetwatsonohl2023/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
       <guid>https://richardschweitzer.github.io/publication/rolfsschweitzercastetwatsonohl2023/</guid>
       <description>&lt;p&gt;In this paper, we report a mysterious finding. When detecting rapid stimulus motion of a Gabor stimulus oriented orthogonal to its motion direction, it is not simply its absolute velocity that determines its visibility, but a combination of velocity and movement distance. Curiously, the specific combination that predicts velocity thresholds follows an oculomotor law - the main sequence, an exponential function describing the increase of saccadic velocity with growing amplitude. My proud contributions to this paper feature the &lt;a href=&#34;https://osf.io/kvtsu/&#34; target=&#34;_blank&#34;&gt;masking experiment&lt;/a&gt;, the &lt;a href=&#34;https://github.com/richardschweitzer/PostsaccadicOscillations&#34; target=&#34;_blank&#34;&gt;modeling of saccade trajectories&lt;/a&gt; which ultimately revealed significant correlations between saccade metrics and velocity thresholds, and most importantly, the &lt;a href=&#34;https://github.com/richardschweitzer/ModelingVisibilityOfSaccadelikeMotion&#34; target=&#34;_blank&#34;&gt;early vision model&lt;/a&gt; to predict the measured psychophysical data - without fitting and based only on the trajectory of the stimulus. Finally, I evaluated the timing of the motion stimulus using photometric measurements using the &lt;a href=&#34;https://github.com/richardschweitzer/LM03_lightmeter&#34; target=&#34;_blank&#34;&gt;LM03 lightmeter&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Saccadic omission revisited: What saccade-induced smear looks like</title>
-      <link>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</guid>
-      <description>&lt;p&gt;We rarely become aware of the immediate sensory consequences of our own saccades, that is, a massive amount of motion blur as the entire visual scene shifts across the retina. In this paper, we applied a novel tachistoscopic presentation technique to flash natural scenes in total darkness while observers made saccades! That way, motion smear induced by rapid image motion &amp;ndash; otherwise omitted from perception &amp;ndash; became readily observable. With this setup we could not only study the time course of motion smear generation and reduction, but also determine what visual features are encoded in smeared images: Low spatial frequencies and, most prominently, orientations parallel to the direction of the ongoing saccade. Using some cool computational modeling, we show that these results can be explained assuming no more than saccadic velocity and human contrast sensitivity profiles. To demonstrate that motion smear is directly linked to saccade dynamics, we show that the time course of perceived smear across observers can be predicted by a parsimonious motion-filter model that only takes the eyes&amp;rsquo; trajectories as an input. In the name of open science, all &lt;a href=&#34;https://github.com/richardschweitzer/MotionSmearModelingPlayground&#34; target=&#34;_blank&#34;&gt;modeling code&lt;/a&gt;, as well as data and &lt;a href=&#34;https://osf.io/bjgqk&#34; target=&#34;_blank&#34;&gt;data analysis code&lt;/a&gt;, is again publicly available. The manuscript currently under review.&lt;/p&gt;
 </description>
     </item>
     
