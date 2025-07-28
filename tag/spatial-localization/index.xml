@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatial localization | Richard Schweitzer</title>
+    <link>https://richardschweitzer.github.io/tag/spatial-localization/</link>
+      <atom:link href="https://richardschweitzer.github.io/tag/spatial-localization/index.xml" rel="self" type="application/rss+xml" />
+    <description>spatial localization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://richardschweitzer.github.io/media/icon_hubfee2d95eacbb9353231e71bd25fb589_9055_512x512_fill_lanczos_center_3.png</url>
+      <title>spatial localization</title>
+      <link>https://richardschweitzer.github.io/tag/spatial-localization/</link>
+    </image>
+    
+    <item>
+      <title>High-fidelity but hypometric spatial localization of afterimages across saccades</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_ai_2025/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_ai_2025/</guid>
+      <description>&lt;p&gt;In low-light environments, brief high-intensity visual stimulation can induce long-lasting retinal afterimages. When observers then make eye movements to explore their visual environment, these afterimages – albeit fixed in the retinotopic frame of reference – appear to move in egocentric space wherever the eye moves. Even though this phenomenon has been known for centuries, the underlying computations remained unexplained. Tracking eye and afterimage positions simultaneously, we found that perceived afterimage position was accurately predicted by eye position across a variety of visuomotor conditions, whereby the eye movement’s size was however systematically underestimated by the visual system. Considering a parsimonious model of visual localization, afterimage movement can be understood as a consequence of feedforward predictions of the visual consequences of impending eye movements.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

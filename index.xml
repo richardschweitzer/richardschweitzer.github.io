@@ -33,6 +33,24 @@
     </item>
     
     <item>
+      <title>High-fidelity but hypometric spatial localization of afterimages across saccades</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_ai_2025/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_ai_2025/</guid>
+      <description>&lt;p&gt;In low-light environments, brief high-intensity visual stimulation can induce long-lasting retinal afterimages. When observers then make eye movements to explore their visual environment, these afterimages – albeit fixed in the retinotopic frame of reference – appear to move in egocentric space wherever the eye moves. Even though this phenomenon has been known for centuries, the underlying computations remained unexplained. Tracking eye and afterimage positions simultaneously, we found that perceived afterimage position was accurately predicted by eye position across a variety of visuomotor conditions, whereby the eye movement’s size was however systematically underestimated by the visual system. Considering a parsimonious model of visual localization, afterimage movement can be understood as a consequence of feedforward predictions of the visual consequences of impending eye movements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early visual signatures and benefits of intra-saccadic motion streaks</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_eeg_2025/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_eeg_2025/</guid>
+      <description>&lt;p&gt;To efficiently explore our visual environment, we humans incessantly make brief and rapid eye movements. These so-called saccades inevitably shift the entire visual image across the retina, thereby inducing - like a moving camera with long exposure duration - a significant amount of motion blur, transforming single objects into elongated smeared motion streaks. While simultaneously recording electroencephalography and eye tracking, we asked human observers to make saccades to a target stimulus which then rapidly changed location while their eyes were in mid-flight. Critically, we compared smooth target motion to a simple jump, thus isolating neural responses and behavioral benefits specific to motion streaks: For continuous motion (i.e., when streaks were available), the post-saccadic target location could be decoded earlier from electrophysiological data and secondary saccades went more quickly to the new target location. Indeed, decoding of target location succeeded immediately after the end of the saccade and was most efficient on occipital sensors, suggesting that saccade-induced motion streaks are represented in visual cortex. &lt;a href=&#34;https://github.com/richardschweitzer/simplified_V1&#34; target=&#34;_blank&#34;&gt;Computational modeling&lt;/a&gt; of saccades as a consequence of early visual processes suggests that fast motion could be efficiently coded in orientation-selective channels, providing a parsimonious mechanism by which the brain exploits motion streaks for goal-directed behavior.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Saccadic omission revisited: What saccade-induced smear looks like</title>
       <link>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</link>
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
