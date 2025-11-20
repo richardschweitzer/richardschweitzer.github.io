@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>eye tracking | Richard Schweitzer</title>
-    <link>https://richardschweitzer.github.io/tag/eye-tracking/</link>
-      <atom:link href="https://richardschweitzer.github.io/tag/eye-tracking/index.xml" rel="self" type="application/rss+xml" />
-    <description>eye tracking</description>
+    <title>EEG | Richard Schweitzer</title>
+    <link>https://richardschweitzer.github.io/tag/eeg/</link>
+      <atom:link href="https://richardschweitzer.github.io/tag/eeg/index.xml" rel="self" type="application/rss+xml" />
+    <description>EEG</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://richardschweitzer.github.io/media/icon_hubfee2d95eacbb9353231e71bd25fb589_9055_512x512_fill_lanczos_center_3.png</url>
-      <title>eye tracking</title>
-      <link>https://richardschweitzer.github.io/tag/eye-tracking/</link>
+      <title>EEG</title>
+      <link>https://richardschweitzer.github.io/tag/eeg/</link>
     </image>
     
     <item>
@@ -22,29 +22,11 @@
     </item>
     
     <item>
-      <title>Definition, Modeling, and Detection of Saccades in the Face of Post-saccadic Oscillations</title>
-      <link>https://richardschweitzer.github.io/publication/schweitzerrolfs2022_eyetracking/</link>
-      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://richardschweitzer.github.io/publication/schweitzerrolfs2022_eyetracking/</guid>
-      <description>&lt;p&gt;When looking at data recorded by video-based eye tracking systems, one might have noticed brief periods of instability around saccade offset. These so-called post-saccadic oscillations are caused by inertial forces that act on the elastic components of the eye, such as the iris or the lens, and can greatly distort estimates of saccade duration and peak velocity. In this paper, we describe and evaluate biophysically plausible models (for a demonstration, see the &lt;a href=&#34;https://richardschweitzer.shinyapps.io/pso_fitting_example/&#34; target=&#34;_blank&#34;&gt;shiny app&lt;/a&gt;) that can not only approximate saccade trajectories observed in video-based eye tracking, but also extract the underlying &amp;ndash; and otherwise unobservable &amp;ndash; rotation of the eyeball. We further present detection algorithms for post-saccadic oscillations, which are made &lt;a href=&#34;https://github.com/richardschweitzer/PostsaccadicOscillations&#34; target=&#34;_blank&#34;&gt;publicly available&lt;/a&gt;, and finally demonstrate how accurate models of saccade trajectory can be used to generate data and mathematically tractable ground-truth labels for training ML-based algorithms that are capable of accurately detecting post-saccadic oscillations.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Perceptual and Motor Consequences of Intra-saccadic Perception</title>
       <link>https://richardschweitzer.github.io/publication/schweitzer2020_dissertation/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://richardschweitzer.github.io/publication/schweitzer2020_dissertation/</guid>
       <description>&lt;p&gt;Is intra-saccadic vision merely an epiphenomenon or could visual information that reaches the eye during saccades be used by the visual system? That was the question of my cumulative doctoral dissertation, which features not only a synopsis of all studies conducted up to this point, but also a review of the saccadic-suppression and motion-streak literature to put these findings into context. The dissertation has been awarded two prizes &amp;ndash; the &lt;a href=&#34;https://www.hu-berlin.de/de/ueberblick/menschen/ehrungen/humboldtpreis/archiv/humboldt-preis-2021/perceptual-and-motor-consequences-of-intra-saccadic-perception&#34; target=&#34;_blank&#34;&gt;Humboldt Prize&lt;/a&gt; and the &lt;a href=&#34;https://www.studienstiftung.de/pressemitteilungen/artikel/studienstiftung-vergibt-promotionspreise-2022-1/&#34; target=&#34;_blank&#34;&gt;Lieselotte Pongratz-Promotionspreis&lt;/a&gt; by Studienstiftung des Deutschen Volkes (see also the &lt;a href=&#34;https://youtu.be/Q6lAIwXfRVQ&#34; target=&#34;_blank&#34;&gt;short movie&lt;/a&gt;).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An adaptive algorithm for fast and reliable online saccade detection</title>
-      <link>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_brm/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_brm/</guid>
-      <description>&lt;p&gt;To study intrasaccadic vision, we need stimulus manipulations that occur strictly during saccades. Due to the brief durations of saccades, this can prove a difficult task, as various system latencies (eye tracker, refresh cycle, video delay, and some more) have to be considered. While most of these delays are hardware-dependent, one opportunity to alleviate timing issues in gaze-contingent eye-tracking paradigms is applying an efficient online saccade detection! In this paper we described such an algorithm, validated it in simulations and experiments, and made it &lt;a href=&#34;https://github.com/richardschweitzer/OnlineSaccadeDetection&#34; target=&#34;_blank&#34;&gt;publicly available&lt;/a&gt;) so that it can be used with a range of different programming languages.&lt;/p&gt;
 </description>
     </item>
     

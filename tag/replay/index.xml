@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>replay | Richard Schweitzer</title>
+    <link>https://richardschweitzer.github.io/tag/replay/</link>
+      <atom:link href="https://richardschweitzer.github.io/tag/replay/index.xml" rel="self" type="application/rss+xml" />
+    <description>replay</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://richardschweitzer.github.io/media/icon_hubfee2d95eacbb9353231e71bd25fb589_9055_512x512_fill_lanczos_center_3.png</url>
+      <title>replay</title>
+      <link>https://richardschweitzer.github.io/tag/replay/</link>
+    </image>
+    
+    <item>
+      <title>Temporal recalibration to delayed visual consequences of saccades</title>
+      <link>https://richardschweitzer.github.io/publication/noerenbergschweitzerrolfs2025_jov/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/noerenbergschweitzerrolfs2025_jov/</guid>
+      <description>&lt;p&gt;Temporal recalibration is a fascinating phenomenon. If one (experimentally) induces a consistent artificial delay between an action (e.g., pressing a button) and a visual stimulus (e.g., the light turning on), then - after a few exposures - stimuli occuring at shorter delays may well appear as if they happened &lt;a href=&#34;https://doi.org/10.1016/j.neuron.2006.08.006&#34; target=&#34;_blank&#34;&gt;even before the action was executed&lt;/a&gt;. In this piece Wiebke shows temporal recalibration across a good range of visual conditions with not only real but also simulated saccades.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Saccadic omission revisited: What saccade-induced smear looks like</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</guid>
+      <description>&lt;p&gt;We rarely become aware of the immediate sensory consequences of our own saccades, that is, a massive amount of motion blur as the entire visual scene shifts across the retina. In this paper, we applied a novel tachistoscopic presentation technique to flash natural scenes in total darkness while observers made saccades. That way, motion smear induced by rapid image motion (otherwise omitted from perception) became readily observable. With this setup we could not only study the time course of motion smear generation and reduction, but also determine what visual features are encoded in smeared images. Low spatial frequencies and, most prominently, orientations parallel to the direction of the ongoing saccade. Using some cool computational modeling, we show that these results can be explained assuming no more than saccadic velocity and human contrast sensitivity profiles. To demonstrate that motion smear is directly linked to saccade dynamics, we show that the time course of perceived smear across observers can be predicted by a parsimonious motion-filter model that only takes the eyes&amp;rsquo; trajectories as an input. And the best thing about it: This works even if no saccades are made and the visual consequences of saccades are merely replayed to the fixating eye! In the name of open science, all &lt;a href=&#34;https://github.com/richardschweitzer/MotionSmearModelingPlayground&#34; target=&#34;_blank&#34;&gt;modeling code&lt;/a&gt;, as well as data and &lt;a href=&#34;https://osf.io/bjgqk&#34; target=&#34;_blank&#34;&gt;data analysis code&lt;/a&gt;, is again publicly available.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intra-saccadic motion streaks as cues to linking object locations across saccades</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_jov/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerrolfs2020_jov/</guid>
+      <description>&lt;p&gt;Whenever we make a saccade to an object, that object will travel from the periphery to the fovea at extremely high velocities. Depending on the visual features of the object, such motion can induce streaks, that may serve as visual clues to solve the problem of trans-saccadic object correspondence. Using a high-speed projection system operating at 1440 fps, we investigated to what extent human observers are capable of matching pre- and post-saccadic object locations when their only cue was an intra-saccadic motion streak, and compared their performance during saccades to a replay of the retinal stimulus trajectory presented during fixation.&lt;/p&gt;
+&lt;p&gt;A toolbox for parsing Eyelink EDF files was implemented in R to analyze this series of experiments, which can be found &lt;a href=&#34;https://github.com/richardschweitzer/EyelinkEDFTools_R&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

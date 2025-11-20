@@ -5,21 +5,12 @@
     <link>https://richardschweitzer.github.io/tag/active-vision/</link>
       <atom:link href="https://richardschweitzer.github.io/tag/active-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>active vision</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://richardschweitzer.github.io/media/icon_hubfee2d95eacbb9353231e71bd25fb589_9055_512x512_fill_lanczos_center_3.png</url>
       <title>active vision</title>
       <link>https://richardschweitzer.github.io/tag/active-vision/</link>
     </image>
-    
-    <item>
-      <title>Early visual signatures and benefits of intra-saccadic motion streaks</title>
-      <link>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_eeg_2025/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_eeg_2025/</guid>
-      <description>&lt;p&gt;To efficiently explore our visual environment, we humans incessantly make brief and rapid eye movements. These so-called saccades inevitably shift the entire visual image across the retina, thereby inducing - like a moving camera with long exposure duration - a significant amount of motion blur, transforming single objects into elongated smeared motion streaks. While simultaneously recording electroencephalography and eye tracking, we asked human observers to make saccades to a target stimulus which then rapidly changed location while their eyes were in mid-flight. Critically, we compared smooth target motion to a simple jump, thus isolating neural responses and behavioral benefits specific to motion streaks: For continuous motion (i.e., when streaks were available), the post-saccadic target location could be decoded earlier from electrophysiological data and secondary saccades went more quickly to the new target location. Indeed, decoding of target location succeeded immediately after the end of the saccade and was most efficient on occipital sensors, suggesting that saccade-induced motion streaks are represented in visual cortex. &lt;a href=&#34;https://github.com/richardschweitzer/simplified_V1&#34; target=&#34;_blank&#34;&gt;Computational modeling&lt;/a&gt; of saccades as a consequence of early visual processes suggests that fast motion could be efficiently coded in orientation-selective channels, providing a parsimonious mechanism by which the brain exploits motion streaks for goal-directed behavior.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Coupling perception to action through incidental sensory consequences of motor behaviour</title>

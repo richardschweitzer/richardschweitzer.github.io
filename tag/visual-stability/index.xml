@@ -5,7 +5,7 @@
     <link>https://richardschweitzer.github.io/tag/visual-stability/</link>
       <atom:link href="https://richardschweitzer.github.io/tag/visual-stability/index.xml" rel="self" type="application/rss+xml" />
     <description>visual stability</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://richardschweitzer.github.io/media/icon_hubfee2d95eacbb9353231e71bd25fb589_9055_512x512_fill_lanczos_center_3.png</url>
       <title>visual stability</title>
@@ -13,11 +13,56 @@
     </image>
     
     <item>
+      <title>Early visual signatures and benefits of intra-saccadic motion streaks</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_eeg_2025/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_eeg_2025/</guid>
+      <description>&lt;p&gt;To efficiently explore our visual environment, we humans incessantly make brief and rapid eye movements. These so-called saccades inevitably shift the entire visual image across the retina, thereby inducing - like a moving camera with long exposure duration - a significant amount of motion blur, transforming single objects into elongated smeared motion streaks. While simultaneously recording electroencephalography and eye tracking, we asked human observers to make saccades to a target stimulus which then rapidly changed location while their eyes were in mid-flight. Critically, we compared smooth target motion to a simple jump, thus isolating neural responses and behavioral benefits specific to motion streaks: For continuous motion (i.e., when streaks were available), the post-saccadic target location could be decoded earlier from electrophysiological data and secondary saccades went more quickly to the new target location. Indeed, decoding of target location succeeded immediately after the end of the saccade and was most efficient on occipital sensors, suggesting that saccade-induced motion streaks are represented in visual cortex. &lt;a href=&#34;https://github.com/richardschweitzer/simplified_V1&#34; target=&#34;_blank&#34;&gt;Computational modeling&lt;/a&gt; of saccades as a consequence of early visual processes suggests that fast motion could be efficiently coded in orientation-selective channels, providing a parsimonious mechanism by which the brain exploits motion streaks for goal-directed behavior.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>High-fidelity but hypometric spatial localization of afterimages across saccades</title>
       <link>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_ai_2025/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_ai_2025/</guid>
       <description>&lt;p&gt;In low-light environments, brief high-intensity visual stimulation can induce long-lasting retinal afterimages. When observers then make eye movements to explore their visual environment, these afterimages – albeit fixed in the retinotopic frame of reference – appear to move in egocentric space wherever the eye moves. Even though this phenomenon has been known for centuries, the underlying computations remained unexplained. Tracking eye and afterimage positions simultaneously, we found that perceived afterimage position was accurately predicted by eye position across a variety of visuomotor conditions, whereby the eye movement’s size was however systematically underestimated by the visual system. Considering a parsimonious model of visual localization, afterimage movement can be understood as a consequence of feedforward predictions of the visual consequences of impending eye movements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Saccadic omission revisited: What saccade-induced smear looks like</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerdoeringseelraischrolfs2023/</guid>
+      <description>&lt;p&gt;We rarely become aware of the immediate sensory consequences of our own saccades, that is, a massive amount of motion blur as the entire visual scene shifts across the retina. In this paper, we applied a novel tachistoscopic presentation technique to flash natural scenes in total darkness while observers made saccades. That way, motion smear induced by rapid image motion (otherwise omitted from perception) became readily observable. With this setup we could not only study the time course of motion smear generation and reduction, but also determine what visual features are encoded in smeared images. Low spatial frequencies and, most prominently, orientations parallel to the direction of the ongoing saccade. Using some cool computational modeling, we show that these results can be explained assuming no more than saccadic velocity and human contrast sensitivity profiles. To demonstrate that motion smear is directly linked to saccade dynamics, we show that the time course of perceived smear across observers can be predicted by a parsimonious motion-filter model that only takes the eyes&amp;rsquo; trajectories as an input. And the best thing about it: This works even if no saccades are made and the visual consequences of saccades are merely replayed to the fixating eye! In the name of open science, all &lt;a href=&#34;https://github.com/richardschweitzer/MotionSmearModelingPlayground&#34; target=&#34;_blank&#34;&gt;modeling code&lt;/a&gt;, as well as data and &lt;a href=&#34;https://osf.io/bjgqk&#34; target=&#34;_blank&#34;&gt;data analysis code&lt;/a&gt;, is again publicly available.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lawful kinematics link eye movements to the limits of high-speed perception</title>
+      <link>https://richardschweitzer.github.io/publication/rolfsschweitzercastetwatsonohl2023/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/rolfsschweitzercastetwatsonohl2023/</guid>
+      <description>&lt;p&gt;In this paper, we report a mysterious finding. When detecting rapid stimulus motion of a Gabor stimulus oriented orthogonal to its motion direction, it is not simply its absolute velocity that determines its visibility, but a combination of velocity and movement distance. Curiously, the specific combination that predicts velocity thresholds follows an oculomotor law - the main sequence, an exponential function describing the increase of saccadic velocity with growing amplitude. My proud contributions to this paper feature the &lt;a href=&#34;https://osf.io/kvtsu/&#34; target=&#34;_blank&#34;&gt;masking experiment&lt;/a&gt;, the &lt;a href=&#34;https://github.com/richardschweitzer/PostsaccadicOscillations&#34; target=&#34;_blank&#34;&gt;modeling of saccade trajectories&lt;/a&gt; which ultimately revealed significant correlations between saccade metrics and velocity thresholds, and most importantly, the &lt;a href=&#34;https://github.com/richardschweitzer/ModelingVisibilityOfSaccadelikeMotion&#34; target=&#34;_blank&#34;&gt;early vision model&lt;/a&gt; to predict the measured psychophysical data - without fitting and based only on the trajectory of the stimulus. Finally, I evaluated the timing of the motion stimulus using photometric measurements using the &lt;a href=&#34;https://github.com/richardschweitzer/LM03_lightmeter&#34; target=&#34;_blank&#34;&gt;LM03 lightmeter&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coupling perception to action through incidental sensory consequences of motor behaviour</title>
+      <link>https://richardschweitzer.github.io/publication/rolfsschweitzer2022/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/rolfsschweitzer2022/</guid>
+      <description>&lt;p&gt;This perspective paper is dedicated to the question how an active perceptual system deals with the sensory consequences of its own actions. For instance, in the field of active vision little is known about the consequences of large-field smear induced by the rapid image shift caused by saccades. Whereas such information is thought to hinder visual processing, new evidence is discussed that sheds light on the intriguing possibility of action-perception couplings, that is, the idea that perception is shaped by sensory consequences of actions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Perceptual and Motor Consequences of Intra-saccadic Perception</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzer2020_dissertation/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzer2020_dissertation/</guid>
+      <description>&lt;p&gt;Is intra-saccadic vision merely an epiphenomenon or could visual information that reaches the eye during saccades be used by the visual system? That was the question of my cumulative doctoral dissertation, which features not only a synopsis of all studies conducted up to this point, but also a review of the saccadic-suppression and motion-streak literature to put these findings into context. The dissertation has been awarded two prizes &amp;ndash; the &lt;a href=&#34;https://www.hu-berlin.de/de/ueberblick/menschen/ehrungen/humboldtpreis/archiv/humboldt-preis-2021/perceptual-and-motor-consequences-of-intra-saccadic-perception&#34; target=&#34;_blank&#34;&gt;Humboldt Prize&lt;/a&gt; and the &lt;a href=&#34;https://www.studienstiftung.de/pressemitteilungen/artikel/studienstiftung-vergibt-promotionspreise-2022-1/&#34; target=&#34;_blank&#34;&gt;Lieselotte Pongratz-Promotionspreis&lt;/a&gt; by Studienstiftung des Deutschen Volkes (see also the &lt;a href=&#34;https://youtu.be/Q6lAIwXfRVQ&#34; target=&#34;_blank&#34;&gt;short movie&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
