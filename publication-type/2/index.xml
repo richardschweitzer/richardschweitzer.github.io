@@ -5,12 +5,30 @@
     <link>https://richardschweitzer.github.io/publication-type/2/</link>
       <atom:link href="https://richardschweitzer.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://richardschweitzer.github.io/media/icon_hubfee2d95eacbb9353231e71bd25fb589_9055_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://richardschweitzer.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Temporal recalibration to delayed visual consequences of saccades</title>
+      <link>https://richardschweitzer.github.io/publication/noerenbergschweitzerrolfs2025_jov/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/noerenbergschweitzerrolfs2025_jov/</guid>
+      <description>&lt;p&gt;Temporal recalibration is a fascinating phenomenon. If one (experimentally) induces a consistent artificial delay between an action (e.g., pressing a button) and a visual stimulus (e.g., the light turning on), then - after a few exposures - stimuli occuring at shorter delays may well appear as if they happened &lt;a href=&#34;https://doi.org/10.1016/j.neuron.2006.08.006&#34; target=&#34;_blank&#34;&gt;even before the action was executed&lt;/a&gt;. In this piece Wiebke shows temporal recalibration across a good range of visual conditions with not only real but also simulated saccades.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early visual signatures and benefits of intra-saccadic motion streaks</title>
+      <link>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_eeg_2025/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://richardschweitzer.github.io/publication/schweitzerseelraischrolfs_eeg_2025/</guid>
+      <description>&lt;p&gt;To efficiently explore our visual environment, we humans incessantly make brief and rapid eye movements. These so-called saccades inevitably shift the entire visual image across the retina, thereby inducing - like a moving camera with long exposure duration - a significant amount of motion blur, transforming single objects into elongated smeared motion streaks. While simultaneously recording electroencephalography and eye tracking, we asked human observers to make saccades to a target stimulus which then rapidly changed location while their eyes were in mid-flight. Critically, we compared smooth target motion to a simple jump, thus isolating neural responses and behavioral benefits specific to motion streaks: For continuous motion (i.e., when streaks were available), the post-saccadic target location could be decoded earlier from electrophysiological data and secondary saccades went more quickly to the new target location. Indeed, decoding of target location succeeded immediately after the end of the saccade and was most efficient on occipital sensors, suggesting that saccade-induced motion streaks are represented in visual cortex. &lt;a href=&#34;https://github.com/richardschweitzer/simplified_V1&#34; target=&#34;_blank&#34;&gt;Computational modeling&lt;/a&gt; of saccades as a consequence of early visual processes suggests that fast motion could be efficiently coded in orientation-selective channels, providing a parsimonious mechanism by which the brain exploits motion streaks for goal-directed behavior.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Saccadic omission revisited: What saccade-induced smear looks like</title>
